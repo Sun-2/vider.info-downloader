@@ -1,3 +1,7 @@
+# Moved
+
+Moved to [**https://github.com/kosciolek/vider.info-downloader**](https://github.com/kosciolek/vider.info-downloader).
+
 
 # Vider-downloader
 
